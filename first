@@ -1,0 +1,19 @@
+#KARAN PRASHAR
+#I WANT TO DEVELOP A PRODUCT THAT CAN BE VERYMUCH USEFUL TO THE WORLD
+print("K   K   A   RRRR     A   N    N")
+print("K  K   A A  R   R   A A  NN   N")
+print("K K   A   A R   R  A   A N N  N")
+print("KK    AAAAA RRRR   AAAAA N   NN")
+print("K K   A   A R R    A   A N    N")
+print("K  K  A   A R  R   A   A N    N")
+print("K   K A   A R   R  A   A N    N")
+
+print("""
+PPPP   RRRR     A    SSS  H   H   A   RRRR 
+P   P  R   R   A A  S   S H   H  A A  R   R
+P   P  R   R  A   A S     H   H A   A R   R
+PPPP   RRRR   AAAAA  SSS  HHHHH AAAAA RRRR 
+P      R R    A   A     S H   H A   A R R  
+P      R  R   A   A S   S H   H A   A R  R 
+P      R   R  A   A  SSS  H   H A   A R   R
+""")
