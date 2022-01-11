@@ -3,7 +3,7 @@ name = "Joe"
 question = "will INDIA win the match"
 answer = ""
 random_number = random.randint(1,9)
-print(random_number)
+print("Random number selected: "+ str(random_number))
 
 if random_number == 1:
   answer = "Yes - definitely"
